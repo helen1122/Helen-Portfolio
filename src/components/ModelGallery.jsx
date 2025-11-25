@@ -244,12 +244,12 @@ const galleryItems = [
     image: "/images/p19.jpg",
     height: 600,
   },
-  // {
-  //   id: 40,
-  //   category: "Polaroid",
-  //   image: "/images/p20.jpg",
-  //   height: 600,
-  // },
+  {
+    id: 40,
+    category: "Polaroid",
+    image: "/images/p-20.jpg",
+    height: 600,
+  },
   {
     id: 41,
     category: "Polaroid",
